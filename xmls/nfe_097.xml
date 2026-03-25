@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe24200752149708000102550010009330071967348809">
+			<ide>
+				<cUF>24</cUF>
+				<cNF>96734880</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>933007</nNF>
+				<dhEmi>2020-07-27T09:27:48-03:00</dhEmi>
+				<dhSaiEnt>2020-07-27T09:22:48-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>9028821</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>9</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>850839</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>52149708000102</CNPJ>
+				<xNome>JESUS MERCADINHO LTDA</xNome>
+				<xFant>JESUS MERCADINHO</xFant>
+				<enderEmit>
+					<xLgr>ALAMEDA RAVI MORAES N 8244</xLgr>
+					<nro>7909</nro>
+					<xBairro>INDAIÁ</xBairro>
+					<cMun>1688461</cMun>
+					<xMun>MENDES</xMun>
+					<UF>RN</UF>
+					<CEP>30049942</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>550613324818</fone>
+				</enderEmit>
+				<IE>432083871</IE>
+				<IM>1743510</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>94163780203</CPF>
+				<xNome>DIOGO PIMENTA</xNome>
+				<enderDest>
+					<xLgr>AVENIDA ARAGÃO</xLgr>
+					<nro>4223</nro>
+					<xBairro>CÔNEGO PINHEIRO 1ª SEÇÃO</xBairro>
+					<cMun>1531754</cMun>
+					<xMun>NASCIMENTO</xMun>
+					<UF>PI</UF>
+					<CEP>24664095</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>6177961907</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>baraujo@example.org</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>7476</cProd>
+					<cEAN/>
+					<xProd>CARNE SUINA LOMBO KG</xProd>
+					<NCM>02031900</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>KG</uCom>
+					<qCom>1.5264</qCom>
+					<vUnCom>38.4485000000</vUnCom>
+					<vProd>58.69</vProd>
+					<cEANTrib/>
+					<uTrib>KG</uTrib>
+					<qTrib>1.5264</qTrib>
+					<vUnTrib>38.4485000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>3.43</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>9115</cProd>
+					<cEAN/>
+					<xProd>FARINHA DE MANDIOCA 1KG</xProd>
+					<NCM>11062000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>9.0998000000</vUnCom>
+					<vProd>27.30</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>9.0998000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>1.60</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>85.99</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>85.99</vNF>
+					<vTotTrib>5.03</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>0</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 67265;</infAdFisco>
+				<infCpl>Pedido: 52061 Vendedor: 10-PIETRO SOUSA Condicao Pgto.: 5-PARCELADO COM JUROS ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 20683762582;Voce pagou aproximadamente: ;R$ 5.03 de tributos federais ;R$ 85.99 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>24200752149708000102550010009330071967348809</chNFe>
+			<dhRecbto>2020-07-27T09:30:10-03:00</dhRecbto>
+			<nProt>193276490575079</nProt>
+			<digVal>oCByHXuPTyHq0Fm6HK9mEtBTKgE=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

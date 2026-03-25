@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe13190776093481000199550020005450971778892349">
+			<ide>
+				<cUF>13</cUF>
+				<cNF>77889234</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>2</serie>
+				<nNF>545097</nNF>
+				<dhEmi>2019-07-31T18:07:23-03:00</dhEmi>
+				<dhSaiEnt>2019-07-31T18:03:53-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>8990438</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>9</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>435475</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>76093481000199</CNPJ>
+				<xNome>PASTOR SUPERMERCADOS LTDA</xNome>
+				<xFant>PASTOR SUPERMERCADOS</xFant>
+				<enderEmit>
+					<xLgr>TRAVESSA MATTEO ARAÚJO N 9450</xLgr>
+					<nro>2675</nro>
+					<xBairro>COMITECO</xBairro>
+					<cMun>1065754</cMun>
+					<xMun>DA PAZ</xMun>
+					<UF>AM</UF>
+					<CEP>94226036</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>550613209399</fone>
+				</enderEmit>
+				<IE>752804507</IE>
+				<IM>6491439</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>46350297199</CPF>
+				<xNome>MARCOS VINICIUS FREITAS</xNome>
+				<enderDest>
+					<xLgr>VALE DE SANTOS</xLgr>
+					<nro>7098</nro>
+					<xBairro>DONA CLARA</xBairro>
+					<cMun>8104930</cMun>
+					<xMun>CASSIANO DE CAMARGO</xMun>
+					<UF>RO</UF>
+					<CEP>93999342</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>55021706270</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>ottoabreu@example.net</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>7758</cProd>
+					<cEAN/>
+					<xProd>MOLHO DE TOMATE 340G</xProd>
+					<NCM>21039090</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>7.0000</qCom>
+					<vUnCom>5.0284000000</vUnCom>
+					<vProd>35.20</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>7.0000</qTrib>
+					<vUnTrib>5.0284000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>2.06</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>3126</cProd>
+					<cEAN/>
+					<xProd>DESODORANTE ROLL-ON 50ML</xProd>
+					<NCM>33079000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>2.0000</qCom>
+					<vUnCom>19.3264000000</vUnCom>
+					<vProd>38.65</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>2.0000</qTrib>
+					<vUnTrib>19.3264000000</vUnTrib>
+					<vDesc>1.03</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>2.26</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="3">
+				<prod>
+					<cProd>2057</cProd>
+					<cEAN/>
+					<xProd>SALSICHA 500G</xProd>
+					<NCM>16010000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>11.6822000000</vUnCom>
+					<vProd>35.05</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>11.6822000000</vUnTrib>
+					<vDesc>0.55</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>2.05</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>108.90</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>1.58</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>107.32</vNF>
+					<vTotTrib>6.37</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>4</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 49114;</infAdFisco>
+				<infCpl>Pedido: 73616 Vendedor: 20-DANTE NASCIMENTO Condicao Pgto.: 2-A VISTA CARTAO CREDITO ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 91509481179;Voce pagou aproximadamente: ;R$ 6.37 de tributos federais ;R$ 107.32 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>13190776093481000199550020005450971778892349</chNFe>
+			<dhRecbto>2019-07-31T18:07:58-03:00</dhRecbto>
+			<nProt>452204060569990</nProt>
+			<digVal>9CKYGlY7Ij7xdMROQxy/EA1lPn8=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

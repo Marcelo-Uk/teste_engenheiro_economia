@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe28250968740251000146550010004738231146949404">
+			<ide>
+				<cUF>28</cUF>
+				<cNF>14694940</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>473823</nNF>
+				<dhEmi>2025-09-23T18:47:19-03:00</dhEmi>
+				<dhSaiEnt>2025-09-23T18:44:04-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>6118670</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>832270</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>68740251000146</CNPJ>
+				<xNome>CORREIA HIPERMERCADO LTDA</xNome>
+				<xFant>CORREIA HIPERMERCADO</xFant>
+				<enderEmit>
+					<xLgr>ESPLANADA DE SÁ N 2828</xLgr>
+					<nro>67</nro>
+					<xBairro>CDI JATOBA</xBairro>
+					<cMun>5007638</cMun>
+					<xMun>PACHECO</xMun>
+					<UF>SE</UF>
+					<CEP>78253699</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>558175529915</fone>
+				</enderEmit>
+				<IE>639986677</IE>
+				<IM>2669020</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>15438269700</CPF>
+				<xNome>AMANDA SOUZA</xNome>
+				<enderDest>
+					<xLgr>RODOVIA APOLLO CORREIA</xLgr>
+					<nro>7095</nro>
+					<xBairro>PEDREIRA PADRO LOPES</xBairro>
+					<cMun>4340593</cMun>
+					<xMun>MARQUES</xMun>
+					<UF>SC</UF>
+					<CEP>37961080</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>04143431002</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>teixeiraeloah@example.org</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>7210</cProd>
+					<cEAN/>
+					<xProd>MEL PURO 500G</xProd>
+					<NCM>04090000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>2.0000</qCom>
+					<vUnCom>22.2635000000</vUnCom>
+					<vProd>44.53</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>2.0000</qTrib>
+					<vUnTrib>22.2635000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>2.61</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>5327</cProd>
+					<cEAN/>
+					<xProd>DETERGENTE LIQUIDO 500ML</xProd>
+					<NCM>34022090</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>6.0000</qCom>
+					<vUnCom>2.8243000000</vUnCom>
+					<vProd>16.95</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>6.0000</qTrib>
+					<vUnTrib>2.8243000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.99</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>61.48</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>61.48</vNF>
+					<vTotTrib>3.60</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>0</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 41772;</infAdFisco>
+				<infCpl>Pedido: 89668 Vendedor: 21-SR. KEVIN PEREIRA Condicao Pgto.: 1-A VISTA DINHEIRO ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 97599709575;Voce pagou aproximadamente: ;R$ 3.60 de tributos federais ;R$ 61.48 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>28250968740251000146550010004738231146949404</chNFe>
+			<dhRecbto>2025-09-23T18:48:28-03:00</dhRecbto>
+			<nProt>178070022548417</nProt>
+			<digVal>2n/9TFpIVjQ6sa6/RjaQaryjJqs=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

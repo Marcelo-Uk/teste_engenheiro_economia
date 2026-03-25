@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe15190795724103000100550010008976181671237635">
+			<ide>
+				<cUF>15</cUF>
+				<cNF>67123763</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>897618</nNF>
+				<dhEmi>2019-07-28T15:06:28-03:00</dhEmi>
+				<dhSaiEnt>2019-07-28T15:05:39-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>1309914</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>5</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>834992</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>95724103000100</CNPJ>
+				<xNome>PIMENTA MERCADO LTDA</xNome>
+				<xFant>PIMENTA MERCADO</xFant>
+				<enderEmit>
+					<xLgr>ESTRADA DE CORREIA N 6884</xLgr>
+					<nro>1296</nro>
+					<xBairro>MANTIQUEIRA</xBairro>
+					<cMun>5183373</cMun>
+					<xMun>REZENDE DE MINAS</xMun>
+					<UF>PA</UF>
+					<CEP>34942723</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>553133433481</fone>
+				</enderEmit>
+				<IE>689669960</IE>
+				<IM>5722074</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>10827456344</CPF>
+				<xNome>THEODORO CARVALHO</xNome>
+				<enderDest>
+					<xLgr>CONJUNTO DA MATA</xLgr>
+					<nro>4000</nro>
+					<xBairro>VILA PAQUETÁ</xBairro>
+					<cMun>6869592</cMun>
+					<xMun>GOMES DA PRAIA</xMun>
+					<UF>RS</UF>
+					<CEP>36610309</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>09007450231</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>fogacajoao@example.org</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>1543</cProd>
+					<cEAN/>
+					<xProd>SARDINHA EM OLEO 125G</xProd>
+					<NCM>16041300</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>6.1309000000</vUnCom>
+					<vProd>18.39</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>6.1309000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>1.08</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>18.39</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>18.39</vNF>
+					<vTotTrib>1.08</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>1</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 27561;</infAdFisco>
+				<infCpl>Pedido: 53794 Vendedor: 10-DR. MATEUS DA MOTA Condicao Pgto.: 3-A VISTA CARTAO DEBITO ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 29005034520;Voce pagou aproximadamente: ;R$ 1.08 de tributos federais ;R$ 18.39 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>15190795724103000100550010008976181671237635</chNFe>
+			<dhRecbto>2019-07-28T15:08:45-03:00</dhRecbto>
+			<nProt>253067349051444</nProt>
+			<digVal>vcvZZRld9TM0ffGMpa3iiCF1WMM=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

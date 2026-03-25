@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe11220124691035000182550020007747301261680809">
+			<ide>
+				<cUF>11</cUF>
+				<cNF>26168080</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>2</serie>
+				<nNF>774730</nNF>
+				<dhEmi>2022-01-08T18:31:29-03:00</dhEmi>
+				<dhSaiEnt>2022-01-08T18:29:17-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>8973015</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>9</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>821197</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>24691035000182</CNPJ>
+				<xNome>FOGAÇA HIPERMERCADO LTDA</xNome>
+				<xFant>FOGAÇA HIPERMERCADO</xFant>
+				<enderEmit>
+					<xLgr>DISTRITO DE MONTENEGRO N 9872</xLgr>
+					<nro>4828</nro>
+					<xBairro>ACAIACA</xBairro>
+					<cMun>2286646</cMun>
+					<xMun>NOVAIS DA PRAIA</xMun>
+					<UF>RO</UF>
+					<CEP>64774963</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>8479933904</fone>
+				</enderEmit>
+				<IE>512677263</IE>
+				<IM>9759684</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>1</CRT>
+			</emit>
+			<dest>
+				<CPF>03294657161</CPF>
+				<xNome>JOÃO MIGUEL MARQUES</xNome>
+				<enderDest>
+					<xLgr>NÚCLEO BIANCA FERNANDES</xLgr>
+					<nro>746</nro>
+					<xBairro>SÃO CRISTÓVÃO</xBairro>
+					<cMun>5276376</cMun>
+					<xMun>LIMA</xMun>
+					<UF>RO</UF>
+					<CEP>78417545</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>55512839719</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>vitoria24@example.org</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>9288</cProd>
+					<cEAN/>
+					<xProd>AZEITE DE OLIVA EXTRA VIRGEM 500ML</xProd>
+					<NCM>15091000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>2.0000</qCom>
+					<vUnCom>51.0257000000</vUnCom>
+					<vProd>102.05</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>2.0000</qTrib>
+					<vUnTrib>51.0257000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>5.97</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>102.05</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>102.05</vNF>
+					<vTotTrib>5.97</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>4</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 81159;</infAdFisco>
+				<infCpl>Pedido: 29479 Vendedor: 2-GABRIELLY VIEIRA Condicao Pgto.: 4-PARCELADO SEM JUROS ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 16828710916;Voce pagou aproximadamente: ;R$ 5.97 de tributos federais ;R$ 102.05 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>11220124691035000182550020007747301261680809</chNFe>
+			<dhRecbto>2022-01-08T18:33:12-03:00</dhRecbto>
+			<nProt>965858929796088</nProt>
+			<digVal>gzl/PqjqW75QIOZhu+kcqMuyQLU=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

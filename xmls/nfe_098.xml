@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe51180565902148000167550010005798881558274194">
+			<ide>
+				<cUF>51</cUF>
+				<cNF>55827419</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>579888</nNF>
+				<dhEmi>2018-05-31T14:01:44-03:00</dhEmi>
+				<dhSaiEnt>2018-05-31T14:00:49-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>7328441</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>867351</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>65902148000167</CNPJ>
+				<xNome>MENDES MERCEARIA LTDA</xNome>
+				<xFant>MENDES MERCEARIA</xFant>
+				<enderEmit>
+					<xLgr>TRAVESSA DE CARVALHO N 1329</xLgr>
+					<nro>4255</nro>
+					<xBairro>BURITIS</xBairro>
+					<cMun>3081546</cMun>
+					<xMun>GUERRA DE DA ROSA</xMun>
+					<UF>MT</UF>
+					<CEP>79311394</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>558117371704</fone>
+				</enderEmit>
+				<IE>875767923</IE>
+				<IM>5924573</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>92618530489</CPF>
+				<xNome>KEVIN CAVALCANTI</xNome>
+				<enderDest>
+					<xLgr>LAGO DE MORAES</xLgr>
+					<nro>5452</nro>
+					<xBairro>ALTO DOS PINHEIROS</xBairro>
+					<cMun>3943011</cMun>
+					<xMun>GOMES</xMun>
+					<UF>PR</UF>
+					<CEP>67651206</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>05181112641</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>yagoda-rocha@example.net</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>7399</cProd>
+					<cEAN/>
+					<xProd>LEITE INTEGRAL UHT 1L</xProd>
+					<NCM>04011020</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>6.2799000000</vUnCom>
+					<vProd>6.28</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>6.2799000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.37</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>6.28</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>6.28</vNF>
+					<vTotTrib>0.37</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>2</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 61130;</infAdFisco>
+				<infCpl>Pedido: 48502 Vendedor: 10-JOÃO GUILHERME DA CONCEIÇÃO Condicao Pgto.: 2-A VISTA CARTAO CREDITO ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 63927104481;Voce pagou aproximadamente: ;R$ 0.37 de tributos federais ;R$ 6.28 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>51180565902148000167550010005798881558274194</chNFe>
+			<dhRecbto>2018-05-31T14:04:18-03:00</dhRecbto>
+			<nProt>832405132886118</nProt>
+			<digVal>DtyX4O93UdWQIDWE0DOkGcGq91c=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

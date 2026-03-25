@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe31190921560843000112550030001348861999447678">
+			<ide>
+				<cUF>31</cUF>
+				<cNF>99944767</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>3</serie>
+				<nNF>134886</nNF>
+				<dhEmi>2019-09-25T12:36:05-03:00</dhEmi>
+				<dhSaiEnt>2019-09-25T12:31:31-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>2689227</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>8</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>301823</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>21560843000112</CNPJ>
+				<xNome>CORREIA HIPERMERCADO LTDA</xNome>
+				<xFant>CORREIA HIPERMERCADO</xFant>
+				<enderEmit>
+					<xLgr>FEIRA DE PIMENTA N 7732</xLgr>
+					<nro>35</nro>
+					<xBairro>SERRA VERDE</xBairro>
+					<cMun>2468533</cMun>
+					<xMun>ARAÚJO DE DA CUNHA</xMun>
+					<UF>MG</UF>
+					<CEP>19356197</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>02153050669</fone>
+				</enderEmit>
+				<IE>923196154</IE>
+				<IM>9705940</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>31570842914</CPF>
+				<xNome>ANTONELLA CARDOSO</xNome>
+				<enderDest>
+					<xLgr>LARGO DE CARDOSO</xLgr>
+					<nro>2032</nro>
+					<xBairro>CONJUNTO SANTA MARIA</xBairro>
+					<cMun>3792933</cMun>
+					<xMun>BORGES DAS FLORES</xMun>
+					<UF>DF</UF>
+					<CEP>07160535</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>4171908567</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>foliveira@example.net</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>8140</cProd>
+					<cEAN/>
+					<xProd>QUEIJO MUSSARELA KG</xProd>
+					<NCM>04061000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>KG</uCom>
+					<qCom>1.3047</qCom>
+					<vUnCom>59.9820000000</vUnCom>
+					<vProd>78.26</vProd>
+					<cEANTrib/>
+					<uTrib>KG</uTrib>
+					<qTrib>1.3047</qTrib>
+					<vUnTrib>59.9820000000</vUnTrib>
+					<vDesc>4.17</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>4.58</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>9392</cProd>
+					<cEAN/>
+					<xProd>DESINFETANTE 500ML</xProd>
+					<NCM>38089290</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>7.9897000000</vUnCom>
+					<vProd>23.97</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>7.9897000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>1.40</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="3">
+				<prod>
+					<cProd>3015</cProd>
+					<cEAN/>
+					<xProd>BATATA INGLESA KG</xProd>
+					<NCM>07019000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>KG</uCom>
+					<qCom>2.7112</qCom>
+					<vUnCom>8.4509000000</vUnCom>
+					<vProd>22.91</vProd>
+					<cEANTrib/>
+					<uTrib>KG</uTrib>
+					<qTrib>2.7112</qTrib>
+					<vUnTrib>8.4509000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>1.34</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>125.14</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>4.17</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>120.97</vNF>
+					<vTotTrib>7.32</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>2</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 12812;</infAdFisco>
+				<infCpl>Pedido: 90442 Vendedor: 8-EDUARDO PINTO Condicao Pgto.: 4-PARCELADO SEM JUROS ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 76641680182;Voce pagou aproximadamente: ;R$ 7.32 de tributos federais ;R$ 120.97 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>31190921560843000112550030001348861999447678</chNFe>
+			<dhRecbto>2019-09-25T12:38:33-03:00</dhRecbto>
+			<nProt>880825362158845</nProt>
+			<digVal>eKevAyJwlgEV0JDnjU62HO4SC5A=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

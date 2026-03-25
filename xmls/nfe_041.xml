@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe12231084620519000162550020002982091785586479">
+			<ide>
+				<cUF>12</cUF>
+				<cNF>78558647</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>2</serie>
+				<nNF>298209</nNF>
+				<dhEmi>2023-10-22T08:28:49-03:00</dhEmi>
+				<dhSaiEnt>2023-10-22T08:25:58-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>3684269</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>9</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>698114</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>84620519000162</CNPJ>
+				<xNome>MELO MERCADO LTDA</xNome>
+				<xFant>MELO MERCADO</xFant>
+				<enderEmit>
+					<xLgr>LOTEAMENTO FREITAS N 5402</xLgr>
+					<nro>6373</nro>
+					<xBairro>APARECIDA 7ª SEÇÃO</xBairro>
+					<cMun>8125728</cMun>
+					<xMun>MACHADO</xMun>
+					<UF>AC</UF>
+					<CEP>34764421</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>8114233114</fone>
+				</enderEmit>
+				<IE>398615039</IE>
+				<IM>4836748</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>1</CRT>
+			</emit>
+			<dest>
+				<CPF>53079128460</CPF>
+				<xNome>DRA. VITÓRIA MENDONÇA</xNome>
+				<enderDest>
+					<xLgr>RODOVIA MARTINS</xLgr>
+					<nro>6451</nro>
+					<xBairro>VILA PIRATININGA</xBairro>
+					<cMun>6563165</cMun>
+					<xMun>CUNHA DE MINAS</xMun>
+					<UF>SC</UF>
+					<CEP>24743860</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>08483616994</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>sabrina92@example.com</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>873</cProd>
+					<cEAN/>
+					<xProd>AZEITE DE OLIVA EXTRA VIRGEM 500ML</xProd>
+					<NCM>15091000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>49.4899000000</vUnCom>
+					<vProd>148.47</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>49.4899000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>8.69</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>6205</cProd>
+					<cEAN/>
+					<xProd>PAO FRANCES KG</xProd>
+					<NCM>19052090</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>KG</uCom>
+					<qCom>0.4950</qCom>
+					<vUnCom>17.9376000000</vUnCom>
+					<vProd>8.88</vProd>
+					<cEANTrib/>
+					<uTrib>KG</uTrib>
+					<qTrib>0.4950</qTrib>
+					<vUnTrib>17.9376000000</vUnTrib>
+					<vDesc>0.30</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.52</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="3">
+				<prod>
+					<cProd>584</cProd>
+					<cEAN/>
+					<xProd>SAL REFINADO IODADO 1KG</xProd>
+					<NCM>25010020</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>3.6686000000</vUnCom>
+					<vProd>3.67</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>3.6686000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.21</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>1</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>161.02</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.30</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>160.72</vNF>
+					<vTotTrib>9.42</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>3</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 23268;</infAdFisco>
+				<infCpl>Pedido: 94808 Vendedor: 13-RAFAEL MARQUES Condicao Pgto.: 5-PARCELADO COM JUROS ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 55707643502;Voce pagou aproximadamente: ;R$ 9.42 de tributos federais ;R$ 160.72 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>12231084620519000162550020002982091785586479</chNFe>
+			<dhRecbto>2023-10-22T08:31:42-03:00</dhRecbto>
+			<nProt>909398885785596</nProt>
+			<digVal>y+6uAo4fb8Eunt0P2vjdvzGUQVw=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>

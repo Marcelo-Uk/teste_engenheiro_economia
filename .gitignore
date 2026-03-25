@@ -1,0 +1,23 @@
+# repo antigo clonado dentro da pasta
+fonte-teste/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# airflow / spark / logs
+logs/
+*.log
+
+# jupyter / editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# sistema
+.DS_Store
+Thumbs.db

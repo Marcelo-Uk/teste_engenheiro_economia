@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+	<NFe>
+		<infNFe versao="3.10" Id="NFe33180538052974000191550010008930671191966078">
+			<ide>
+				<cUF>33</cUF>
+				<cNF>19196607</cNF>
+				<natOp>VENDA DE MERCADORIA</natOp>
+				<indPag>0</indPag>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>893067</nNF>
+				<dhEmi>2018-05-25T09:52:11-03:00</dhEmi>
+				<dhSaiEnt>2018-05-25T09:47:42-03:00</dhSaiEnt>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>1089191</cMunFG>
+				<tpImp>2</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>8</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NFe - 3.1.0-01</verProc>
+				<NFref>
+					<refECF>
+						<mod>2D</mod>
+						<nECF>001</nECF>
+						<nCOO>986430</nCOO>
+					</refECF>
+				</NFref>
+			</ide>
+			<emit>
+				<CNPJ>38052974000191</CNPJ>
+				<xNome>VIANA ATACAREJO LTDA</xNome>
+				<xFant>VIANA ATACAREJO</xFant>
+				<enderEmit>
+					<xLgr>RECANTO DE DA ROCHA N 1202</xLgr>
+					<nro>3618</nro>
+					<xBairro>NOVA PAMPULHA</xBairro>
+					<cMun>3146494</cMun>
+					<xMun>FONSECA DE DA ROCHA</xMun>
+					<UF>RJ</UF>
+					<CEP>00455016</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>558403135027</fone>
+				</enderEmit>
+				<IE>564477645</IE>
+				<IM>4894367</IM>
+				<CNAE>4711302</CNAE>
+				<CRT>2</CRT>
+			</emit>
+			<dest>
+				<CPF>38601975259</CPF>
+				<xNome>PEDRO HENRIQUE ABREU</xNome>
+				<enderDest>
+					<xLgr>PRAIA DE ALMEIDA</xLgr>
+					<nro>7753</nro>
+					<xBairro>VILA MALOCA</xBairro>
+					<cMun>1734211</cMun>
+					<xMun>DA ROCHA</xMun>
+					<UF>AP</UF>
+					<CEP>12017842</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>4103367241</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>brenosilveira@example.com</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>483</cProd>
+					<cEAN/>
+					<xProd>PAO DE FORMA INTEGRAL 500G</xProd>
+					<NCM>19051000</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>UN</uCom>
+					<qCom>3.0000</qCom>
+					<vUnCom>15.2885000000</vUnCom>
+					<vProd>45.87</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>3.0000</qTrib>
+					<vUnTrib>15.2885000000</vUnTrib>
+					<vDesc>0.00</vDesc>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>2.68</vTotTrib>
+					<ICMS>
+						<ICMSSN102>
+							<orig>0</orig>
+							<CSOSN>102</CSOSN>
+						</ICMSSN102>
+					</ICMS>
+					<PIS>
+						<PISOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pPIS>0.0000</pPIS>
+							<vPIS>0.00</vPIS>
+						</PISOutr>
+					</PIS>
+					<COFINS>
+						<COFINSOutr>
+							<CST>99</CST>
+							<vBC>0.00</vBC>
+							<pCOFINS>0.0000</pCOFINS>
+							<vCOFINS>0.00</vCOFINS>
+						</COFINSOutr>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>45.87</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>45.87</vNF>
+					<vTotTrib>2.68</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>2</modFrete>
+			</transp>
+			<infAdic>
+				<infAdFisco>Nota referente ao cupom fiscal: 64670;</infAdFisco>
+				<infCpl>Pedido: 67260 Vendedor: 26-SR. MATHEUS LIMA Condicao Pgto.: 3-A VISTA CARTAO DEBITO ;EMPRESA OPTANTE PELO SIMPLES NACIONAL;serial 86287602371;Voce pagou aproximadamente: ;R$ 2.68 de tributos federais ;R$ 45.87 pelos produtos ;Fonte: IBPT 5oi7eW. ;</infCpl>
+			</infAdic>
+		</infNFe>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NFe - 3.1.0-01</verAplic>
+			<chNFe>33180538052974000191550010008930671191966078</chNFe>
+			<dhRecbto>2018-05-25T09:55:10-03:00</dhRecbto>
+			<nProt>426853325775783</nProt>
+			<digVal>rnWleAMf/SeHqRd7FjNubQUVkn8=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
